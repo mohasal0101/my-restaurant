@@ -4,9 +4,9 @@
 
 `We have multiple delicious dishes such as:`
 
-- [Masnaf](https://www.cheftariq.com/recipe/mansaf/)
-- [SteakMeal](https://realfood.tesco.com/recipes/jimmys-steak-for-two.html)
-- [spaghetti](https://veganwithgusto.com/spaghetti-arrabbiata/)
+- [Masnaf](https://www.cheftariq.com/recipe/mansaf/) -----> 15$
+- [SteakMeal](https://realfood.tesco.com/recipes/jimmys-steak-for-two.html) ------> 20$
+- [spaghetti](https://veganwithgusto.com/spaghetti-arrabbiata/) --------> 12.99$
 
 
 ### *you can also see this example of our products*
