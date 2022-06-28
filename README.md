@@ -4,17 +4,17 @@
 
 `We have multiple delicious dishes such as:`
 
-- [Masnaf](https://www.cheftariq.com/recipe/mansaf/) -----> 15$
-- [SteakMeal](https://realfood.tesco.com/recipes/jimmys-steak-for-two.html) ------> 20$
-- [spaghetti](https://veganwithgusto.com/spaghetti-arrabbiata/) --------> 12.99$
+- [Masnaf](https://www.cheftariq.com/recipe/mansaf/) 
+- [SteakMeal](https://realfood.tesco.com/recipes/jimmys-steak-for-two.html)
+- [spaghetti](https://veganwithgusto.com/spaghetti-arrabbiata/) 
 
-<h2>TD elements define table cells</h2>
+<h2>Dishes Prices</h2>
 
 <table style="width:100%">
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>15 JOD</td>
+    <td>20 JOD</td>
+    <td>12.99 JOD</td>
   </tr>
 </table>
 
