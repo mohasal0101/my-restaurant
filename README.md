@@ -29,3 +29,9 @@
 ## *Links*
 
 [The pull request](https://github.com/mohasal0101/my-restaurant/pull/1)
+
+
+## *Wireframe*
+
+![wireframe](img/Home.png)
+![wireframe](img/About_us.png)
